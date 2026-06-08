@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+pandas
+ultralytics
+requests
+numpy
+torch
+torchvision
